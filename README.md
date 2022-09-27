@@ -25,3 +25,5 @@
 `npm run dev`
 
 ## Site da Aplicação:
+
+https://notes-giza-unes.vercel.app/
